@@ -2,6 +2,8 @@ package com.ll.dfs;
 
 import java.util.*;
 //백준 4963번 섬의 개수
+//https://www.acmicpc.net/problem/4963
+
 public class p4963 {
     static int[][] map; // 입력받은 지도
     static boolean[][] visited; // 방문 여부를 저장할 배열

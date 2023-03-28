@@ -1,6 +1,8 @@
 package com.ll.dfs;
+
 import java.util.*;
 //백준 2583번 영역 구하기
+//https://www.acmicpc.net/problem/2583
 public class p2583 {
     static int m, n, k; // 직사각형의 세로, 가로 크기, 그리고 좌표 개수
     static int[][] map; // 직사각형 내부를 나타내는 배열
